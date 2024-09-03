@@ -15,7 +15,7 @@
     </string-array>
 
     <!--  Foursquare API auth Id  -->
-    <string name="AUTH_ID">fsq3mUfmDsZ5YsoUoVygb1mwmfHMO6ujvMimZEZBgcr2bzU=</string>
+    <string name="AUTH_ID">fsq3HH8C+CjEc9RwEVKxK3jzSpFd5e/GtNBFujxTz6Lk60g=</string>
     <string name="title_activity_location">Map</string>
 
 
